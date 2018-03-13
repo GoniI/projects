@@ -1,0 +1,47 @@
+{
+  "Animals_EASY": [
+    "cat",
+    "dog",
+    "horse",
+    "bear",
+    "mouse",
+    "cow",
+    "lion",
+    "tiger"
+  ],
+  "Animals_HARD": [
+    "iguana",
+    "komodo draogn",
+    "rhinoceros",
+    "antelope",
+    "butterfly"
+  ],
+  "Animals_MEDIUM": [
+    "crocodile",
+    "hippopotam",
+    "giraffe",
+    "panda",
+    "eagle",
+    "owl",
+    "snake"
+  ],
+  "Cars_EASY": [
+    "golf",
+    "passat",
+    "bmw",
+    "mercedes"
+  ],
+  "Cars_HARD": [
+    "rolls royce",
+    "mclaren",
+    "dodge",
+    "range rover"
+  ],
+  "Cars_MEDIUM": [
+    "toyota",
+    "mazda",
+    "ford",
+    "benteley",
+    "honda"
+  ]
+}
